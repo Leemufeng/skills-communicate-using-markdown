@@ -7,3 +7,6 @@ var myVar = "Hello, world!";
 jf士大夫考试科目反馈
 ###### This is an `<h6>` header, which is the smallest
 上岛咖啡林肯律师
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
